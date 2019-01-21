@@ -1,0 +1,7349 @@
+fileFormatVersion: 2
+guid: 3c3a421479b624817abba58345a914bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4298823901150411143
+    second: pokemon-blue-spritesheet_0
+  - first:
+      213: 8053058331351603220
+    second: pokemon-blue-spritesheet_1
+  - first:
+      213: 971147883078384540
+    second: pokemon-blue-spritesheet_2
+  - first:
+      213: 7966977800258840284
+    second: pokemon-blue-spritesheet_3
+  - first:
+      213: -8033940294408370478
+    second: pokemon-blue-spritesheet_4
+  - first:
+      213: 1982935913766131624
+    second: pokemon-blue-spritesheet_5
+  - first:
+      213: -5394822114007398059
+    second: pokemon-blue-spritesheet_6
+  - first:
+      213: -229241593011910445
+    second: pokemon-blue-spritesheet_7
+  - first:
+      213: 5453654656740279090
+    second: pokemon-blue-spritesheet_8
+  - first:
+      213: 9099776894855009343
+    second: pokemon-blue-spritesheet_9
+  - first:
+      213: 2655064761988868044
+    second: pokemon-blue-spritesheet_10
+  - first:
+      213: -9145054987937914838
+    second: pokemon-blue-spritesheet_11
+  - first:
+      213: -9002842036338250380
+    second: pokemon-blue-spritesheet_12
+  - first:
+      213: -3630811979442911270
+    second: pokemon-blue-spritesheet_13
+  - first:
+      213: -9121487743730541460
+    second: pokemon-blue-spritesheet_14
+  - first:
+      213: 2018942719792330856
+    second: pokemon-blue-spritesheet_15
+  - first:
+      213: 1699027300076365441
+    second: pokemon-blue-spritesheet_16
+  - first:
+      213: -8614514769945044778
+    second: pokemon-blue-spritesheet_17
+  - first:
+      213: 399987382278297151
+    second: pokemon-blue-spritesheet_18
+  - first:
+      213: 7310661505676242496
+    second: pokemon-blue-spritesheet_19
+  - first:
+      213: 3498505729878966558
+    second: pokemon-blue-spritesheet_20
+  - first:
+      213: -5775124706990966390
+    second: pokemon-blue-spritesheet_21
+  - first:
+      213: -7315639092522495584
+    second: pokemon-blue-spritesheet_22
+  - first:
+      213: 4183875565687319479
+    second: pokemon-blue-spritesheet_23
+  - first:
+      213: -3192863278647437677
+    second: pokemon-blue-spritesheet_24
+  - first:
+      213: -9160724813576621740
+    second: pokemon-blue-spritesheet_25
+  - first:
+      213: 539297319894167915
+    second: pokemon-blue-spritesheet_26
+  - first:
+      213: -8959145332327994325
+    second: pokemon-blue-spritesheet_27
+  - first:
+      213: 4416489934542533706
+    second: pokemon-blue-spritesheet_28
+  - first:
+      213: 8820240499970489756
+    second: pokemon-blue-spritesheet_29
+  - first:
+      213: 6531797360432990712
+    second: pokemon-blue-spritesheet_30
+  - first:
+      213: -3343378128823365879
+    second: pokemon-blue-spritesheet_31
+  - first:
+      213: -6224947403976524931
+    second: pokemon-blue-spritesheet_32
+  - first:
+      213: -7531806241568744583
+    second: pokemon-blue-spritesheet_33
+  - first:
+      213: 9064582037623041904
+    second: pokemon-blue-spritesheet_34
+  - first:
+      213: 5498733768577299929
+    second: pokemon-blue-spritesheet_35
+  - first:
+      213: -2219918453688674546
+    second: pokemon-blue-spritesheet_36
+  - first:
+      213: 6677246583327022729
+    second: pokemon-blue-spritesheet_37
+  - first:
+      213: 4088112383927582741
+    second: pokemon-blue-spritesheet_38
+  - first:
+      213: 8885419850572894211
+    second: pokemon-blue-spritesheet_39
+  - first:
+      213: -6683248459157153659
+    second: pokemon-blue-spritesheet_40
+  - first:
+      213: -1617012375560212899
+    second: pokemon-blue-spritesheet_41
+  - first:
+      213: 1488137384196444481
+    second: pokemon-blue-spritesheet_42
+  - first:
+      213: -4840079657010318194
+    second: pokemon-blue-spritesheet_43
+  - first:
+      213: -4234347969180139244
+    second: pokemon-blue-spritesheet_44
+  - first:
+      213: -3682714659417286220
+    second: pokemon-blue-spritesheet_45
+  - first:
+      213: 8324774752286576306
+    second: pokemon-blue-spritesheet_46
+  - first:
+      213: -81296409820239777
+    second: pokemon-blue-spritesheet_47
+  - first:
+      213: 910316785300766708
+    second: pokemon-blue-spritesheet_48
+  - first:
+      213: -3184260200307350591
+    second: pokemon-blue-spritesheet_49
+  - first:
+      213: -3948303007581060819
+    second: pokemon-blue-spritesheet_50
+  - first:
+      213: -657278815275980252
+    second: pokemon-blue-spritesheet_51
+  - first:
+      213: -100317519530801670
+    second: pokemon-blue-spritesheet_52
+  - first:
+      213: -5780921941524700437
+    second: pokemon-blue-spritesheet_53
+  - first:
+      213: -2120312055560705025
+    second: pokemon-blue-spritesheet_54
+  - first:
+      213: -6134663056385116503
+    second: pokemon-blue-spritesheet_55
+  - first:
+      213: 6925677464422951099
+    second: pokemon-blue-spritesheet_56
+  - first:
+      213: -8551885432346655639
+    second: pokemon-blue-spritesheet_57
+  - first:
+      213: 5278626086096681285
+    second: pokemon-blue-spritesheet_58
+  - first:
+      213: -6413135552882187084
+    second: pokemon-blue-spritesheet_59
+  - first:
+      213: 8993763544340275575
+    second: pokemon-blue-spritesheet_60
+  - first:
+      213: 8275028548212919422
+    second: pokemon-blue-spritesheet_61
+  - first:
+      213: 6900338386049231842
+    second: pokemon-blue-spritesheet_62
+  - first:
+      213: -2337368676427937421
+    second: pokemon-blue-spritesheet_63
+  - first:
+      213: -6266494769954484866
+    second: pokemon-blue-spritesheet_64
+  - first:
+      213: 6217943210873013000
+    second: pokemon-blue-spritesheet_65
+  - first:
+      213: -5661560617085162354
+    second: pokemon-blue-spritesheet_66
+  - first:
+      213: -3798879500868140683
+    second: pokemon-blue-spritesheet_67
+  - first:
+      213: 2451482798986124917
+    second: pokemon-blue-spritesheet_68
+  - first:
+      213: -1382094043129052750
+    second: pokemon-blue-spritesheet_69
+  - first:
+      213: 575763567172596603
+    second: pokemon-blue-spritesheet_70
+  - first:
+      213: 7328740113803073766
+    second: pokemon-blue-spritesheet_71
+  - first:
+      213: 5073061735056122024
+    second: pokemon-blue-spritesheet_72
+  - first:
+      213: -2173027763679774296
+    second: pokemon-blue-spritesheet_73
+  - first:
+      213: -8783632902833132505
+    second: pokemon-blue-spritesheet_74
+  - first:
+      213: -3021252679671317858
+    second: pokemon-blue-spritesheet_75
+  - first:
+      213: 5300199336361727151
+    second: pokemon-blue-spritesheet_76
+  - first:
+      213: -8411587621520341412
+    second: pokemon-blue-spritesheet_77
+  - first:
+      213: -1921845766872658200
+    second: pokemon-blue-spritesheet_78
+  - first:
+      213: 4225684899287532727
+    second: pokemon-blue-spritesheet_79
+  - first:
+      213: -6253287447175730365
+    second: pokemon-blue-spritesheet_80
+  - first:
+      213: -3738406821491577079
+    second: pokemon-blue-spritesheet_81
+  - first:
+      213: 5284489447886785882
+    second: pokemon-blue-spritesheet_82
+  - first:
+      213: -7343724331108579518
+    second: pokemon-blue-spritesheet_83
+  - first:
+      213: -1142333608202543048
+    second: pokemon-blue-spritesheet_84
+  - first:
+      213: -8668998895328189919
+    second: pokemon-blue-spritesheet_85
+  - first:
+      213: 3711285616524400394
+    second: pokemon-blue-spritesheet_86
+  - first:
+      213: -3660102381617532747
+    second: pokemon-blue-spritesheet_87
+  - first:
+      213: 826382669897336408
+    second: pokemon-blue-spritesheet_88
+  - first:
+      213: 6845070268983228768
+    second: pokemon-blue-spritesheet_89
+  - first:
+      213: 7531976470146184542
+    second: pokemon-blue-spritesheet_90
+  - first:
+      213: 2933549852598277731
+    second: pokemon-blue-spritesheet_91
+  - first:
+      213: 4905388600054798180
+    second: pokemon-blue-spritesheet_92
+  - first:
+      213: 1436839569072942060
+    second: pokemon-blue-spritesheet_93
+  - first:
+      213: 7708549843703319467
+    second: pokemon-blue-spritesheet_94
+  - first:
+      213: 5104771217560437837
+    second: pokemon-blue-spritesheet_95
+  - first:
+      213: -3948996335524005171
+    second: pokemon-blue-spritesheet_96
+  - first:
+      213: 8163905730118544646
+    second: pokemon-blue-spritesheet_97
+  - first:
+      213: -8186635925506768639
+    second: pokemon-blue-spritesheet_98
+  - first:
+      213: -2028582483318379603
+    second: pokemon-blue-spritesheet_99
+  - first:
+      213: -5943954257534869831
+    second: pokemon-blue-spritesheet_100
+  - first:
+      213: -1947643402699423131
+    second: pokemon-blue-spritesheet_101
+  - first:
+      213: -3816170409244384607
+    second: pokemon-blue-spritesheet_102
+  - first:
+      213: -6333911464848269103
+    second: pokemon-blue-spritesheet_103
+  - first:
+      213: -2365324341098227047
+    second: pokemon-blue-spritesheet_104
+  - first:
+      213: -3175847954544055457
+    second: pokemon-blue-spritesheet_105
+  - first:
+      213: -8410334076980813694
+    second: pokemon-blue-spritesheet_106
+  - first:
+      213: -7011909106774554149
+    second: pokemon-blue-spritesheet_107
+  - first:
+      213: 3566573045349220083
+    second: pokemon-blue-spritesheet_108
+  - first:
+      213: 5724016254577409910
+    second: pokemon-blue-spritesheet_109
+  - first:
+      213: -4967853536561314220
+    second: pokemon-blue-spritesheet_110
+  - first:
+      213: -5726217317737420002
+    second: pokemon-blue-spritesheet_111
+  - first:
+      213: -4370704286765841749
+    second: pokemon-blue-spritesheet_112
+  - first:
+      213: 6288876859904140028
+    second: pokemon-blue-spritesheet_113
+  - first:
+      213: -2076708444914159068
+    second: pokemon-blue-spritesheet_114
+  - first:
+      213: -2353854008303330552
+    second: pokemon-blue-spritesheet_115
+  - first:
+      213: 5734353188151322106
+    second: pokemon-blue-spritesheet_116
+  - first:
+      213: -5217542867462428168
+    second: pokemon-blue-spritesheet_117
+  - first:
+      213: -1451273833347265617
+    second: pokemon-blue-spritesheet_118
+  - first:
+      213: -4277682563024422703
+    second: pokemon-blue-spritesheet_119
+  - first:
+      213: -4698048499893578941
+    second: pokemon-blue-spritesheet_120
+  - first:
+      213: 4461708154276045134
+    second: pokemon-blue-spritesheet_121
+  - first:
+      213: 8225528893687068601
+    second: pokemon-blue-spritesheet_122
+  - first:
+      213: 2559111410409989011
+    second: pokemon-blue-spritesheet_123
+  - first:
+      213: -125303138424936814
+    second: pokemon-blue-spritesheet_124
+  - first:
+      213: 3874977500288206194
+    second: pokemon-blue-spritesheet_125
+  - first:
+      213: 5473808695156085387
+    second: pokemon-blue-spritesheet_126
+  - first:
+      213: -6031083026472830298
+    second: pokemon-blue-spritesheet_127
+  - first:
+      213: 264521205212660495
+    second: pokemon-blue-spritesheet_128
+  - first:
+      213: 3890589269175805763
+    second: pokemon-blue-spritesheet_129
+  - first:
+      213: -259358482497096416
+    second: pokemon-blue-spritesheet_130
+  - first:
+      213: -8592431615054405731
+    second: pokemon-blue-spritesheet_131
+  - first:
+      213: -5941846844182822491
+    second: pokemon-blue-spritesheet_132
+  - first:
+      213: 1924848885427158091
+    second: pokemon-blue-spritesheet_133
+  - first:
+      213: 6042200692297011488
+    second: pokemon-blue-spritesheet_134
+  - first:
+      213: 6777147312162428156
+    second: pokemon-blue-spritesheet_135
+  - first:
+      213: -8111721116143000195
+    second: pokemon-blue-spritesheet_136
+  - first:
+      213: -2953748493442299218
+    second: pokemon-blue-spritesheet_137
+  - first:
+      213: 8526862795514798570
+    second: pokemon-blue-spritesheet_138
+  - first:
+      213: 3760804957100003529
+    second: pokemon-blue-spritesheet_139
+  - first:
+      213: 3725224313829205673
+    second: pokemon-blue-spritesheet_140
+  - first:
+      213: 9134638001911776207
+    second: pokemon-blue-spritesheet_141
+  - first:
+      213: 8592179917467329002
+    second: pokemon-blue-spritesheet_142
+  - first:
+      213: 1268093556010597962
+    second: pokemon-blue-spritesheet_143
+  - first:
+      213: -6107421281742484795
+    second: pokemon-blue-spritesheet_144
+  - first:
+      213: -4704811790280430969
+    second: pokemon-blue-spritesheet_145
+  - first:
+      213: -7210032603471594762
+    second: pokemon-blue-spritesheet_146
+  - first:
+      213: -3832665281457800491
+    second: pokemon-blue-spritesheet_147
+  - first:
+      213: -4621179711597257882
+    second: pokemon-blue-spritesheet_148
+  - first:
+      213: -401406211399045399
+    second: pokemon-blue-spritesheet_149
+  - first:
+      213: 232852726350840608
+    second: pokemon-blue-spritesheet_150
+  - first:
+      213: 2450771044160246115
+    second: pokemon-blue-spritesheet_151
+  - first:
+      213: 4744193380991336077
+    second: pokemon-blue-spritesheet_152
+  - first:
+      213: -172132514396650450
+    second: pokemon-blue-spritesheet_153
+  - first:
+      213: -7036082623057482511
+    second: pokemon-blue-spritesheet_154
+  - first:
+      213: 8326488252635720299
+    second: pokemon-blue-spritesheet_155
+  - first:
+      213: -8783023124575065701
+    second: pokemon-blue-spritesheet_156
+  - first:
+      213: 1492403461923321374
+    second: pokemon-blue-spritesheet_157
+  - first:
+      213: 7607403478158019459
+    second: pokemon-blue-spritesheet_158
+  - first:
+      213: -8892655537728335580
+    second: pokemon-blue-spritesheet_159
+  - first:
+      213: -1239610437258903764
+    second: pokemon-blue-spritesheet_160
+  - first:
+      213: -6656890269954960535
+    second: pokemon-blue-spritesheet_161
+  - first:
+      213: 6881787017341081500
+    second: pokemon-blue-spritesheet_162
+  - first:
+      213: -6899988595400433022
+    second: pokemon-blue-spritesheet_163
+  - first:
+      213: -3379861477994017999
+    second: pokemon-blue-spritesheet_164
+  - first:
+      213: -8951078089666706317
+    second: pokemon-blue-spritesheet_165
+  - first:
+      213: -2581434806426253505
+    second: pokemon-blue-spritesheet_166
+  - first:
+      213: 1238467397296872602
+    second: pokemon-blue-spritesheet_167
+  - first:
+      213: -3539366226916972219
+    second: pokemon-blue-spritesheet_168
+  - first:
+      213: 3964612389925677924
+    second: pokemon-blue-spritesheet_169
+  - first:
+      213: 6047859955352119462
+    second: pokemon-blue-spritesheet_170
+  - first:
+      213: -4094412625424772254
+    second: pokemon-blue-spritesheet_171
+  - first:
+      213: -2767442937087717230
+    second: pokemon-blue-spritesheet_172
+  - first:
+      213: -1206843548749147943
+    second: pokemon-blue-spritesheet_173
+  - first:
+      213: -3923109565105080023
+    second: pokemon-blue-spritesheet_174
+  - first:
+      213: -6297006610156135701
+    second: pokemon-blue-spritesheet_175
+  - first:
+      213: -4893413525365542112
+    second: pokemon-blue-spritesheet_176
+  - first:
+      213: 2065375116220293163
+    second: pokemon-blue-spritesheet_177
+  - first:
+      213: -4104253836771597340
+    second: pokemon-blue-spritesheet_178
+  - first:
+      213: -5241868113903805735
+    second: pokemon-blue-spritesheet_179
+  - first:
+      213: 5074156087808064935
+    second: pokemon-blue-spritesheet_180
+  - first:
+      213: 7629584621596607155
+    second: pokemon-blue-spritesheet_181
+  - first:
+      213: 8322252189153436207
+    second: pokemon-blue-spritesheet_182
+  - first:
+      213: 4850307536085650930
+    second: pokemon-blue-spritesheet_183
+  - first:
+      213: 2422596226292492902
+    second: pokemon-blue-spritesheet_184
+  - first:
+      213: -2611597949884992585
+    second: pokemon-blue-spritesheet_185
+  - first:
+      213: 603429607497056705
+    second: pokemon-blue-spritesheet_186
+  - first:
+      213: 8405205857459637317
+    second: pokemon-blue-spritesheet_187
+  - first:
+      213: 634686770214466227
+    second: pokemon-blue-spritesheet_188
+  - first:
+      213: 1441042018855006429
+    second: pokemon-blue-spritesheet_189
+  - first:
+      213: 2869786400062744853
+    second: pokemon-blue-spritesheet_190
+  - first:
+      213: -4403821505842853756
+    second: pokemon-blue-spritesheet_191
+  - first:
+      213: 8690367186243652340
+    second: pokemon-blue-spritesheet_192
+  - first:
+      213: -8069426993862888769
+    second: pokemon-blue-spritesheet_193
+  - first:
+      213: 204370751244685709
+    second: pokemon-blue-spritesheet_194
+  - first:
+      213: 6546263625266394107
+    second: pokemon-blue-spritesheet_195
+  - first:
+      213: 441814525276438165
+    second: pokemon-blue-spritesheet_196
+  - first:
+      213: -7077029634679242958
+    second: pokemon-blue-spritesheet_197
+  - first:
+      213: -3241941297630686445
+    second: pokemon-blue-spritesheet_198
+  - first:
+      213: -2860238087883105462
+    second: pokemon-blue-spritesheet_199
+  - first:
+      213: 5251287395389753974
+    second: pokemon-blue-spritesheet_200
+  - first:
+      213: -792785163545293923
+    second: pokemon-blue-spritesheet_201
+  - first:
+      213: 3768142112192615619
+    second: pokemon-blue-spritesheet_202
+  - first:
+      213: 1780986402373203430
+    second: pokemon-blue-spritesheet_203
+  - first:
+      213: -6407135724954513257
+    second: pokemon-blue-spritesheet_204
+  - first:
+      213: -1926858723381641411
+    second: pokemon-blue-spritesheet_205
+  - first:
+      213: -4188617426941660683
+    second: pokemon-blue-spritesheet_206
+  - first:
+      213: 5301026177888421832
+    second: pokemon-blue-spritesheet_207
+  - first:
+      213: 6684255863090870536
+    second: pokemon-blue-spritesheet_208
+  - first:
+      213: -5466532719817941577
+    second: pokemon-blue-spritesheet_209
+  - first:
+      213: 2845746847865946893
+    second: pokemon-blue-spritesheet_210
+  - first:
+      213: -3979972396385326161
+    second: pokemon-blue-spritesheet_211
+  - first:
+      213: -4831375792713671271
+    second: pokemon-blue-spritesheet_212
+  - first:
+      213: 1991993330877737495
+    second: pokemon-blue-spritesheet_213
+  - first:
+      213: 7073188353020874370
+    second: pokemon-blue-spritesheet_214
+  - first:
+      213: -3412134625754758687
+    second: pokemon-blue-spritesheet_215
+  - first:
+      213: 76942744318352086
+    second: pokemon-blue-spritesheet_216
+  - first:
+      213: -5754087651261698202
+    second: pokemon-blue-spritesheet_217
+  - first:
+      213: 502565504500390110
+    second: pokemon-blue-spritesheet_218
+  - first:
+      213: 2210098347288831334
+    second: pokemon-blue-spritesheet_219
+  - first:
+      213: 6632827634532196939
+    second: pokemon-blue-spritesheet_220
+  - first:
+      213: -4160407920926321764
+    second: pokemon-blue-spritesheet_221
+  - first:
+      213: 6543731341534624303
+    second: pokemon-blue-spritesheet_222
+  - first:
+      213: -7947185550209582402
+    second: pokemon-blue-spritesheet_223
+  - first:
+      213: -8127273332382259449
+    second: pokemon-blue-spritesheet_224
+  - first:
+      213: 4940088463532885649
+    second: pokemon-blue-spritesheet_225
+  - first:
+      213: -3086854405132072571
+    second: pokemon-blue-spritesheet_226
+  - first:
+      213: 3682293301975696566
+    second: pokemon-blue-spritesheet_227
+  - first:
+      213: 5233454128960013139
+    second: pokemon-blue-spritesheet_228
+  - first:
+      213: -1668654172088964641
+    second: pokemon-blue-spritesheet_229
+  - first:
+      213: -8922476050630372810
+    second: pokemon-blue-spritesheet_230
+  - first:
+      213: 1221719679456824087
+    second: pokemon-blue-spritesheet_231
+  - first:
+      213: -3152873295723553306
+    second: pokemon-blue-spritesheet_232
+  - first:
+      213: 304972295894343090
+    second: pokemon-blue-spritesheet_233
+  - first:
+      213: 263889109071520534
+    second: pokemon-blue-spritesheet_234
+  - first:
+      213: 60719438476110130
+    second: pokemon-blue-spritesheet_235
+  - first:
+      213: -2341896962575338541
+    second: pokemon-blue-spritesheet_236
+  - first:
+      213: 440892266036919067
+    second: pokemon-blue-spritesheet_237
+  - first:
+      213: 891709208083631257
+    second: pokemon-blue-spritesheet_238
+  - first:
+      213: 5672669583648724461
+    second: pokemon-blue-spritesheet_239
+  - first:
+      213: -5656398026240383386
+    second: pokemon-blue-spritesheet_240
+  - first:
+      213: 88839424060703762
+    second: pokemon-blue-spritesheet_241
+  - first:
+      213: -1716952943106119854
+    second: pokemon-blue-spritesheet_242
+  - first:
+      213: -4795034209079128634
+    second: pokemon-blue-spritesheet_243
+  - first:
+      213: 5819517845737497577
+    second: pokemon-blue-spritesheet_244
+  - first:
+      213: -4781084923523187659
+    second: pokemon-blue-spritesheet_245
+  - first:
+      213: 987071844308979764
+    second: pokemon-blue-spritesheet_246
+  - first:
+      213: -8551633911524232891
+    second: pokemon-blue-spritesheet_247
+  - first:
+      213: -4578755452782199955
+    second: pokemon-blue-spritesheet_248
+  - first:
+      213: -1892860408079987238
+    second: pokemon-blue-spritesheet_249
+  - first:
+      213: 1395868746509083691
+    second: pokemon-blue-spritesheet_250
+  - first:
+      213: -5979882127792792490
+    second: pokemon-blue-spritesheet_251
+  - first:
+      213: -3156573660104097400
+    second: pokemon-blue-spritesheet_252
+  - first:
+      213: 3377856062348846531
+    second: pokemon-blue-spritesheet_253
+  - first:
+      213: 1784065839415176131
+    second: pokemon-blue-spritesheet_254
+  - first:
+      213: -5855945354538756590
+    second: pokemon-blue-spritesheet_255
+  - first:
+      213: 8520967596836923653
+    second: pokemon-blue-spritesheet_256
+  - first:
+      213: 7783636705775097148
+    second: pokemon-blue-spritesheet_257
+  - first:
+      213: -2348398991958493133
+    second: pokemon-blue-spritesheet_258
+  - first:
+      213: 1334842412789700842
+    second: pokemon-blue-spritesheet_259
+  - first:
+      213: -5165129332088050791
+    second: pokemon-blue-spritesheet_260
+  - first:
+      213: -7817994591250942272
+    second: pokemon-blue-spritesheet_261
+  - first:
+      213: -4316635893125334557
+    second: pokemon-blue-spritesheet_262
+  - first:
+      213: 2650681351029037604
+    second: pokemon-blue-spritesheet_263
+  - first:
+      213: -4187530181007399061
+    second: pokemon-blue-spritesheet_264
+  - first:
+      213: 1870770901415820064
+    second: pokemon-blue-spritesheet_265
+  - first:
+      213: 1679078619457658376
+    second: pokemon-blue-spritesheet_266
+  - first:
+      213: -4437642439855828167
+    second: pokemon-blue-spritesheet_267
+  - first:
+      213: -7489931091137314834
+    second: pokemon-blue-spritesheet_268
+  - first:
+      213: -8388274233101959333
+    second: pokemon-blue-spritesheet_269
+  - first:
+      213: 1607546797954662133
+    second: pokemon-blue-spritesheet_270
+  - first:
+      213: -8740196459373685118
+    second: pokemon-blue-spritesheet_271
+  - first:
+      213: -2912088346404973967
+    second: pokemon-blue-spritesheet_272
+  - first:
+      213: 3204230812565755780
+    second: pokemon-blue-spritesheet_273
+  - first:
+      213: 2053434551383005186
+    second: pokemon-blue-spritesheet_274
+  - first:
+      213: -4202821033170014757
+    second: pokemon-blue-spritesheet_275
+  - first:
+      213: 4208078036134980066
+    second: pokemon-blue-spritesheet_276
+  - first:
+      213: -1982846624336594999
+    second: pokemon-blue-spritesheet_277
+  - first:
+      213: -5291437488043208827
+    second: pokemon-blue-spritesheet_278
+  - first:
+      213: -1937069420325072208
+    second: pokemon-blue-spritesheet_279
+  - first:
+      213: 5325364759345342138
+    second: pokemon-blue-spritesheet_280
+  - first:
+      213: -6085808993732496641
+    second: pokemon-blue-spritesheet_281
+  - first:
+      213: -2252550560259652106
+    second: pokemon-blue-spritesheet_282
+  - first:
+      213: 4481293133068636124
+    second: pokemon-blue-spritesheet_283
+  - first:
+      213: -8641410636788723267
+    second: pokemon-blue-spritesheet_284
+  - first:
+      213: -8552730425576541066
+    second: pokemon-blue-spritesheet_285
+  - first:
+      213: 445498251118585929
+    second: pokemon-blue-spritesheet_286
+  - first:
+      213: 7617026670750201762
+    second: pokemon-blue-spritesheet_287
+  - first:
+      213: 2983303450524573549
+    second: pokemon-blue-spritesheet_288
+  - first:
+      213: -8486264457267894375
+    second: pokemon-blue-spritesheet_289
+  - first:
+      213: -1137832421824715454
+    second: pokemon-blue-spritesheet_290
+  - first:
+      213: 2764178712475110023
+    second: pokemon-blue-spritesheet_291
+  - first:
+      213: -7374822001577087997
+    second: pokemon-blue-spritesheet_292
+  - first:
+      213: -1024787837837583720
+    second: pokemon-blue-spritesheet_293
+  - first:
+      213: -5259843802869693064
+    second: pokemon-blue-spritesheet_294
+  - first:
+      213: 211208306359766811
+    second: pokemon-blue-spritesheet_295
+  - first:
+      213: -253759887586029440
+    second: pokemon-blue-spritesheet_296
+  - first:
+      213: 5054041091158507133
+    second: pokemon-blue-spritesheet_297
+  - first:
+      213: 3720541269371443299
+    second: pokemon-blue-spritesheet_298
+  - first:
+      213: -7278423830430573232
+    second: pokemon-blue-spritesheet_299
+  - first:
+      213: -4387789712547966081
+    second: pokemon-blue-spritesheet_300
+  - first:
+      213: -4559953308229062446
+    second: pokemon-blue-spritesheet_301
+  externalObjects: {}
+  serializedVersion: 8
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e42e76c317445a79fceed6ce6f48f3
+      internalID: -4298823901150411143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac991acaae4c417ab6a3583c6162c99
+      internalID: 8053058331351603220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a82140c6247467b91030322e83807e
+      internalID: 971147883078384540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217852a1fb7f7455b80700895e6ed51d
+      internalID: 7966977800258840284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b075fa1b7d8cf45079fb82e13ce26528
+      internalID: -8033940294408370478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9260bf2cea5b1483dbd51e69fa3efcb6
+      internalID: 1982935913766131624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd18e2ca3e60249ca9b27744f12ac0d5
+      internalID: -5394822114007398059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474676d06a224bc387d669faaf7a705
+      internalID: -229241593011910445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf83e89a22ee46b688dc89af72a568a
+      internalID: 5453654656740279090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d625f6005054fa2a0e52d8535e61a7
+      internalID: 9099776894855009343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ec3209d56cd4d8ebef1bdd358991ac
+      internalID: 2655064761988868044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29426c50b54c4bef901dfadfbc28860
+      internalID: -9145054987937914838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d7f8fcadc2d46b78148c7422bc95d3
+      internalID: -9002842036338250380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b4bdcd05f734a738ff1eed0e934600
+      internalID: -3630811979442911270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6335505a7b81c4ac9be38d747c2e6581
+      internalID: -9121487743730541460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436ba486f31a54dd083deb3fb9188294
+      internalID: 2018942719792330856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcac7dfc174594c72b1eb63c35777e30
+      internalID: 1699027300076365441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd85223467294d9cb9c5ff619a6c10a
+      internalID: -8614514769945044778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42b899aa5ed6491c97c03e2d0e15081
+      internalID: 399987382278297151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10581d5b29fe4aa9b2cd3c48e901607
+      internalID: 7310661505676242496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255e09176f9e24fdd8827ffba7ef672b
+      internalID: 3498505729878966558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28130e70595004142b2d875a80d565d9
+      internalID: -5775124706990966390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5c9485bef044bdfba7dedf06fa0818
+      internalID: -7315639092522495584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb1f05ea38ed4d35b78c7e420821732
+      internalID: 4183875565687319479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3940efe5901a7423e95e6a4c369b411b
+      internalID: -3192863278647437677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0047e4a6847824899a6f2579a269ba0e
+      internalID: -9160724813576621740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7b95296f8b14335ad501a926199ec1
+      internalID: 539297319894167915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d1c97654ee54f65bf052051f49af0f
+      internalID: -8959145332327994325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb9c965d97a54c38814921db142005b
+      internalID: 4416489934542533706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301d25a53ce654a78975111dcc3f9859
+      internalID: 8820240499970489756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc06efadc03a414f9903ae788f2fcff
+      internalID: 6531797360432990712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41811fc35b1734e4a9ae1ed3e338e596
+      internalID: -3343378128823365879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8b12cf09944923a21155bf003d0aa
+      internalID: -6224947403976524931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7668b9f2c1224a888081e4dc497e7cc
+      internalID: -7531806241568744583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b97e8ed6a8a482fabc32e16f6e2929
+      internalID: 9064582037623041904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5644a5c1ca2394caa80399e4df3fc0f0
+      internalID: 5498733768577299929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d37cb3a32d24ad3b92ddb2c13324e5
+      internalID: -2219918453688674546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fde34c59f1b471b8956359fa9c0b43
+      internalID: 6677246583327022729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93dc74eef3dc47e780165bb1038cc82
+      internalID: 4088112383927582741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27b179e7258841468059d6fb69804e7
+      internalID: 8885419850572894211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6398c9be71846f6bfdd5674914862e
+      internalID: -6683248459157153659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0fb24d3764e4202937df5ac3d9f29d
+      internalID: -1617012375560212899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec21785371c34659b41de6ed4ae16cd
+      internalID: 1488137384196444481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e94bd41a85f439599b1e5e29ba87ec
+      internalID: -4840079657010318194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8764c470b58a64622b63935cf1087635
+      internalID: -4234347969180139244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d287d5124fb49ed8b5343a06fece19
+      internalID: -3682714659417286220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4871ca9906614e389c231361462c9fa
+      internalID: 8324774752286576306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbe4ca48cd7f46f59678d26fd4ad162
+      internalID: -81296409820239777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e45c4b71746c4e969d47e885be12083
+      internalID: 910316785300766708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b57e3da711640078c1e152fe39079d
+      internalID: -3184260200307350591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588af563967fd4226a944cf3a8f58195
+      internalID: -3948303007581060819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc3dcf0abafd449ea1f33667254fb1e
+      internalID: -657278815275980252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5d2a1a96db44ab1bb73dc83396a4e2
+      internalID: -100317519530801670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beaf58a351004092be7cd2a8b6b5296
+      internalID: -5780921941524700437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d116f96a30dc64105ad9648adec52c1a
+      internalID: -2120312055560705025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146ae1297c8d24e009b9fa07608b1884
+      internalID: -6134663056385116503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f169ca2f91040b883026583222b67e
+      internalID: 6925677464422951099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bee22a5e6aa4e7f845a48722a397ae
+      internalID: -8551885432346655639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8cd3d731cd2427792027a6f6029ad5
+      internalID: 5278626086096681285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96757b286fdd649d5897412f40909e80
+      internalID: -6413135552882187084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c61f19dee5854d6c9b2eb20334b8d68
+      internalID: 8993763544340275575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee06e37a26f04955812dfd7a3268fca
+      internalID: 8275028548212919422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e2d83b29dfe4c04a93b87ca0191245
+      internalID: 6900338386049231842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08835bde02eaf4943a3521c59f3d3b98
+      internalID: -2337368676427937421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b34a5e61288d404c9b55ca1e8142a94
+      internalID: -6266494769954484866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce9edcaf95ca401db697b4dfc3493dd
+      internalID: 6217943210873013000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c37d188ba494b46854b909f87fdefd
+      internalID: -5661560617085162354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bf204d76f8e44d3b62715ad7dd2a73
+      internalID: -3798879500868140683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9850507771bd4242867aa918eb89b4d
+      internalID: 2451482798986124917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4796347fe885a4c698f45b10f4098b7d
+      internalID: -1382094043129052750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f79ff160414f1bb30c1cfcb5ce5ac
+      internalID: 575763567172596603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5409fec2182a47b29550676a3412d64
+      internalID: 7328740113803073766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d6a1c75c4964bdd80bc73f38e8abdf
+      internalID: 5073061735056122024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7842b85cf46b1446bb0539469cb0dbfe
+      internalID: -2173027763679774296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a115f976de9d48adb775f39d2e7bcd0
+      internalID: -8783632902833132505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9516e07f560224dbba2fcb8e3db7b63f
+      internalID: -3021252679671317858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e769c25536f4a9b9840cbb8b8b0c8f
+      internalID: 5300199336361727151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0405e4c3c04975b394188a8462545
+      internalID: -8411587621520341412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e079ab09df014a23ae36b7b99fb52d3
+      internalID: -1921845766872658200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecebb2701d024a699d08594624b9e58
+      internalID: 4225684899287532727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478051dcdf39a420e8b0d4b087659744
+      internalID: -6253287447175730365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc80841e721a466dac885fedd483d16
+      internalID: -3738406821491577079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e54538d2554e66ac6b04f7ef3b761
+      internalID: 5284489447886785882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa36ca0e7f31e462295023efe0c96fad
+      internalID: -7343724331108579518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147b49974df994d698a64c00f349a0db
+      internalID: -1142333608202543048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f71f111b2b4d4345b61b8ec6052afe4
+      internalID: -8668998895328189919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9eb2b92fe454b5783b678cc8a7b70e
+      internalID: 3711285616524400394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc44fc5330dc4fec8c423a7c32cd63a
+      internalID: -3660102381617532747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621e8a07311e84b35aa2bd490fd0949b
+      internalID: 826382669897336408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0761f5c147ca14a51aed66cd2d9d7c4a
+      internalID: 6845070268983228768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76b2c512bdc146928603d2d0fed5534
+      internalID: 7531976470146184542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddbfd090fb304866aa0c506de578bc7
+      internalID: 2933549852598277731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4d10929785243e89f9352dcb34dfbe
+      internalID: 4905388600054798180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baab002228c24d43b259e8333c07f47
+      internalID: 1436839569072942060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694e60feb8f72453795d7bf6cae71dd5
+      internalID: 7708549843703319467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5409d32bd5eeb40418198dfff6b0cd9f
+      internalID: 5104771217560437837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353ea02582a7442758aff12dbf30a0d2
+      internalID: -3948996335524005171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5341cbdea4c4cb4894f27077c96244
+      internalID: 8163905730118544646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7062902360184fab9c83ee4f74dc25a
+      internalID: -8186635925506768639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9851f1c7b7243d7a5f7772818750f0
+      internalID: -2028582483318379603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd70532ca2814ff0ba876cb1f6d9fcd
+      internalID: -5943954257534869831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1621bb3c5504c22b9d6fe0d2452fc7
+      internalID: -1947643402699423131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cc26eccddb54770a2f8ad1f60c03af
+      internalID: -3816170409244384607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79e8572cd7548cf828cf4d25ea1bb5
+      internalID: -6333911464848269103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d17120e5174b4d31af2cdfe99a8e22f
+      internalID: -2365324341098227047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5743e671cb6914a05af2a66982bb75d0
+      internalID: -3175847954544055457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4453492f77d04e77a73324a4fbf12e4
+      internalID: -8410334076980813694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5561bd8895f2442e6bd53478eba1c207
+      internalID: -7011909106774554149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1906ad61539e74b10a1d631dba47da5b
+      internalID: 3566573045349220083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f14619015a44cc29439683ace63849
+      internalID: 5724016254577409910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a2691e8462744d19f776805f2125ad
+      internalID: -4967853536561314220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae28ca838b37841ed926ad8c3c940313
+      internalID: -5726217317737420002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5158223a0f9f24df8b3840fcd5080aa5
+      internalID: -4370704286765841749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a1fc0f3a8104afba4c15b67d1c1a92
+      internalID: 6288876859904140028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a01394d2ad46456c87a5f7663be7328
+      internalID: -2076708444914159068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2040168ae2e154c1f9739792fb317dee
+      internalID: -2353854008303330552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd7b75562ee2497a8e33e596b2522b6
+      internalID: 5734353188151322106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2cbaed6a4ff4bc38470ae51693f6ed
+      internalID: -5217542867462428168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb87f6962d1495dad1d298727e50d9
+      internalID: -1451273833347265617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3084d1a81418142e091b53a26bcab9ac
+      internalID: -4277682563024422703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10608f2894d914390b15fcac4385ba18
+      internalID: -4698048499893578941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d1bd6d41b5c4873a30ce4a9c32074c
+      internalID: 4461708154276045134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4685eef6a9c044fda52a17bbf1b5732
+      internalID: 8225528893687068601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85847f953312e4c47b57b5a5129d31d4
+      internalID: 2559111410409989011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967fcfc4cc0d84fc0b964b541e48d8ca
+      internalID: -125303138424936814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43809bf20c56543a4904bbaa5764918c
+      internalID: 3874977500288206194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a122eaac5cbf43e3988da80d6c482e2
+      internalID: 5473808695156085387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaa2b341d5b642fda85d1c27cab9f19
+      internalID: -6031083026472830298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f209dabbbf491092691718dba0b02
+      internalID: 264521205212660495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e74e33a51a9496d9147c4af2c951fa
+      internalID: 3890589269175805763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866b5254a3824445082a59b740b704a6
+      internalID: -259358482497096416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188c2badecb694a83a8607124bb177bb
+      internalID: -8592431615054405731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf0aef8f088b407c835af80e9949124
+      internalID: -5941846844182822491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1540595ebb8c0493c88b2a9be5f8e7d4
+      internalID: 1924848885427158091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f76b471de0494fd1a968bfc6ca027d8
+      internalID: 6042200692297011488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8828126d1164c4db3b35dc72d86e80
+      internalID: 6777147312162428156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5472c5c0d3655478f94392df1265b4b4
+      internalID: -8111721116143000195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa8d1c4c628e447796885bc2407678a
+      internalID: -2953748493442299218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ab6926e44b54423adf534acdbb060f
+      internalID: 8526862795514798570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774fad60c2b5d447794f9bd5fcc70b84
+      internalID: 3760804957100003529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af707f26116d6446fbb2a8636e09b0de
+      internalID: 3725224313829205673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d3dbca98cc140b4b185d7bb2e0958d
+      internalID: 9134638001911776207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cfbf631b7dc4346b939fa09c40e1fe
+      internalID: 8592179917467329002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f945b159c3ef453dbf712c55bb4d4c2
+      internalID: 1268093556010597962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d138ee2a3991457a966db5e08f0c614
+      internalID: -6107421281742484795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0253c524f9aa3426fa271fcb113d3ffe
+      internalID: -4704811790280430969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd2492e562e8458dada496e8ab356a7
+      internalID: -7210032603471594762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308bdd1687bfd4b45a13b65553a371c9
+      internalID: -3832665281457800491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc76c599b4a1f42f58847191944a5a84
+      internalID: -4621179711597257882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a175a0255faa4bc2ac4dcaa83303821
+      internalID: -401406211399045399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a86baefd0014773b9e0afc15821c63
+      internalID: 232852726350840608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72240a10bf8ff42daa9c15bd19677692
+      internalID: 2450771044160246115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054f82c49ebe84bdba9662c14bf45f8c
+      internalID: 4744193380991336077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76318de6c06f04738a190dca2c59d120
+      internalID: -172132514396650450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12036cd7acd9b4b6da7176017dbebf77
+      internalID: -7036082623057482511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1782a07262146e9ba9805871f19997
+      internalID: 8326488252635720299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdee5c28020004f09a0a939351a051ee
+      internalID: -8783023124575065701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e50efeea06e42bbb285f6da389e348
+      internalID: 1492403461923321374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae32f5ed6f546dd8bc738c630c842b
+      internalID: 7607403478158019459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215290967f3664c7c80e31235aaf5590
+      internalID: -8892655537728335580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b7beaaa127945e4bc27e969173f565
+      internalID: -1239610437258903764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30469339bcc8b43fb972a5d6b0d02ebb
+      internalID: -6656890269954960535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec819d26ca1b42df9e0708e860cd262
+      internalID: 6881787017341081500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982e32f1e74fe445fa68eb1570fc6bb6
+      internalID: -6899988595400433022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870bab9a9f741422ab95aef804ea29d7
+      internalID: -3379861477994017999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5124eefabd58748289c7a60341de1f29
+      internalID: -8951078089666706317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a48fe700772a4b2092572759d9bc166
+      internalID: -2581434806426253505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1f5b973acd741f89e1ad64689f5694
+      internalID: 1238467397296872602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff2aecea2227422b8b50898ca8e01f7
+      internalID: -3539366226916972219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db130ebf3e6e3428e8475ede8f4fdbaf
+      internalID: 3964612389925677924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385c6871bd7a34d44b59b06a1184561d
+      internalID: 6047859955352119462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17e141a14ef44a78a4543e4900ec0bd
+      internalID: -4094412625424772254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779253b482b934fec99e6af2ab95e347
+      internalID: -2767442937087717230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ac127bfb5d04d06b9c6b9a104c7d92
+      internalID: -1206843548749147943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff7dd801230c4a22aa8e88e824e719d
+      internalID: -3923109565105080023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50443aa88e174054a2908e0dcb338af
+      internalID: -6297006610156135701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706fbeeef41cb4250ba9de3751941149
+      internalID: -4893413525365542112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c89658bf8beb4f0b81e35b6db43b44c
+      internalID: 2065375116220293163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8fee13862ec4803956f7717ce019fa
+      internalID: -4104253836771597340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfe1f514ed7645a589074bcda11cb1b
+      internalID: -5241868113903805735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15ca76316b2840d994d9b3596d54e7b
+      internalID: 5074156087808064935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4086429bcfb149099019eca8029e225
+      internalID: 7629584621596607155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feafb081016ad4682a074802af6fcb64
+      internalID: 8322252189153436207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d739ba3c4a24912add3c9c480617dd
+      internalID: 4850307536085650930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8577dd0982df94defb6026cb12cb29e6
+      internalID: 2422596226292492902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036691d026fc64dd598903322ed53353
+      internalID: -2611597949884992585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa39665a2243472a93c2e3f3fa8ef78
+      internalID: 603429607497056705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c23fe81ec934799a9b37aa61e602b5
+      internalID: 8405205857459637317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8d59053d8244d3b0c603d5b352953
+      internalID: 634686770214466227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7842c89bb148e9afde147771132a8
+      internalID: 1441042018855006429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9ad9eee227144ca80e6965ef18abd9
+      internalID: 2869786400062744853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268a5731edaba4850927a01d34c2fe62
+      internalID: -4403821505842853756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca63ecf5dbc25432db26219479c33f61
+      internalID: 8690367186243652340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5633b707e56aa40aab689299216d40d7
+      internalID: -8069426993862888769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921af7b49c7ed4e35bea012827575c00
+      internalID: 204370751244685709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac23ec682234787b6a0b3d61586fc1
+      internalID: 6546263625266394107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6091d39f93db642c38f06430e22f0869
+      internalID: 441814525276438165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecff9b656a3945f1b3edefb7fb7d9c9
+      internalID: -7077029634679242958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985f193667f024b26940f6da6078ff01
+      internalID: -3241941297630686445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b72ecb67594f218e3d12e487fa44c
+      internalID: -2860238087883105462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca1aba37217341b382416fbca8e1039
+      internalID: 5251287395389753974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8402e8b81ba64d098809da1dc3bb67c
+      internalID: -792785163545293923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fa8efebde894b50bace283fb5be9e8
+      internalID: 3768142112192615619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ce86b4fc634844af448d9c6fc1cd9
+      internalID: 1780986402373203430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbf88866ce254fe6b28054727cf9e83
+      internalID: -6407135724954513257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ade79873d5844f87b9da6834b21a263
+      internalID: -1926858723381641411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19a2a2bbc413471b99ada5b0e60a610
+      internalID: -4188617426941660683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4872d01b8ed6044a5b3a9525d9a73547
+      internalID: 5301026177888421832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00edb6c325b85447b9104b96ac69cc87
+      internalID: 6684255863090870536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967e5b522af3341168ac55db311070ae
+      internalID: -5466532719817941577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3fd96cfe6a44c7d834c9048cd2d9e5
+      internalID: 2845746847865946893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcc07c77db154130a965e5932ea60e4
+      internalID: -3979972396385326161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fbb90988f124aa299eabdb0d3880af
+      internalID: -4831375792713671271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f64be93e1e524bee842445f65ae72dd
+      internalID: 1991993330877737495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78747c37c75e4b04bb716a26654a1ea
+      internalID: 7073188353020874370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7875bf1f26844864a5390d5d241e7df
+      internalID: -3412134625754758687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31be3d8efe1c4030863664358af8de0
+      internalID: 76942744318352086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78341d2f44c934762a580f51f69c3047
+      internalID: -5754087651261698202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3de2675ec453441f9f5c646c1499328
+      internalID: 502565504500390110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471583ca41b434996a1c7287100e893a
+      internalID: 2210098347288831334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f71599e5f7c49099bac4172ae0a7d8
+      internalID: 6632827634532196939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc2cd8608934477991aaf6ea17da215
+      internalID: -4160407920926321764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db10fd68e0b1d4e9083cd54d12d7795a
+      internalID: 6543731341534624303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfd6ec817ab64d309ab595f0e7168a3
+      internalID: -7947185550209582402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1448a8ef7bc354e578ebf5329c6714f4
+      internalID: -8127273332382259449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e36bfae1b85e48769e027b5193e2fe2
+      internalID: 4940088463532885649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4573715cf36494c4f9bd0babd6a89c7e
+      internalID: -3086854405132072571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1424bc5c6b7ff4dd6aebac3dc12bfb81
+      internalID: 3682293301975696566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d170843fd97b44ed8bf6da5d73e1e1a
+      internalID: 5233454128960013139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cb83b3cc385438a9eaafdab4de671e
+      internalID: -1668654172088964641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95880dfb749f441faa4ab91ca697623
+      internalID: -8922476050630372810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99df7524c09e74f2c89791792efcc17b
+      internalID: 1221719679456824087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9f47e7b106f42a3802c8aa7729cf22
+      internalID: -3152873295723553306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513cc30faa2c54f599212d667a03723f
+      internalID: 304972295894343090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f63768ae13d4626915342f0ec08ce9
+      internalID: 263889109071520534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d377d5359cc964f658e93b9c64172a40
+      internalID: 60719438476110130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d642e77a4c9974403a353653a26ccd8a
+      internalID: -2341896962575338541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23328a029a6004247b1d269f15bf864a
+      internalID: 440892266036919067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3071fa4e1f33b4d138384e6f9683e73e
+      internalID: 891709208083631257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052a15b27c9134c759754d5a65a825ba
+      internalID: 5672669583648724461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_240
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a640458fba04e3085e59d3de23c6be
+      internalID: -5656398026240383386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_241
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e40ac1e4161740f08f99cd9f5bea181
+      internalID: 88839424060703762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_242
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e6f572577c04c2ead8a4d3435a0db7
+      internalID: -1716952943106119854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_243
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7581e5c24734d70a9d7a8a36fb43a7
+      internalID: -4795034209079128634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_244
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe98c07b31b8412c92b3cec707ada40
+      internalID: 5819517845737497577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_245
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee2e6f01bd2c4795b2fe2b22ae65322
+      internalID: -4781084923523187659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_246
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166d7ea10b9094f6db1f5487922726aa
+      internalID: 987071844308979764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_247
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc528335140942778d367d295d5fd95
+      internalID: -8551633911524232891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_248
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de0d748e10924839a1aa95a785121a2
+      internalID: -4578755452782199955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_249
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f70cfc9842f452b894d67106013a65
+      internalID: -1892860408079987238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83139544164684722abdd736bad2d20e
+      internalID: 1395868746509083691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_251
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a094eca39390043dc969ddb4b4e7be04
+      internalID: -5979882127792792490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_252
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcfaf4f7e9c34060a2f7cc89f4c07b1
+      internalID: -3156573660104097400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_253
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b025643b4a65f4e84a9654661cf55757
+      internalID: 3377856062348846531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_254
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532eb27134045469599e64af1a085686
+      internalID: 1784065839415176131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_255
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7839c0eaafba34b3d8a7e28d89ad5f52
+      internalID: -5855945354538756590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_256
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfc69e827df64ced9b86baa83abab49
+      internalID: 8520967596836923653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_257
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8560512b16f4d1f82960aca06cc886
+      internalID: 7783636705775097148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_258
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf7704ac39f24c6ea1da74e1636f070
+      internalID: -2348398991958493133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_259
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bc98f2a1e5d41f0b3fabeb3cfc1c25
+      internalID: 1334842412789700842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_260
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0d9663266a24edb91f00ad9b8e23dc
+      internalID: -5165129332088050791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_261
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c372d44604a4406f993dc82261abb7e
+      internalID: -7817994591250942272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_262
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff207afd201e3440e8bd4d1f14061b0b
+      internalID: -4316635893125334557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_263
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b77ae85c8894681a758133329bc4e4
+      internalID: 2650681351029037604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_264
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b06e77b364448d7bebf6788bf7a2bf
+      internalID: -4187530181007399061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_265
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c467a6a4344304cd8b6e801d93e1c7fd
+      internalID: 1870770901415820064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_266
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef467e58b52344613acd5e132f2d423c
+      internalID: 1679078619457658376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_267
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eefa2ce31e64b60a3b2ee5a4d6ce32
+      internalID: -4437642439855828167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_268
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d20864c5a0452b933a5d1be1a10af
+      internalID: -7489931091137314834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_269
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62833425766314817aa2cafa20deec31
+      internalID: -8388274233101959333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_270
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c096b4f641ed4d72833c0906b65b8bd
+      internalID: 1607546797954662133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_271
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88202a795b2f4ae8a78e7d4c030f731
+      internalID: -8740196459373685118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_272
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d70d06800674272bff0e7e612447d9
+      internalID: -2912088346404973967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_273
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9bd3a9c9e7f40e5adcbe79d45a84d8
+      internalID: 3204230812565755780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_274
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6622e8a2a52974e0f99537d96da1d709
+      internalID: 2053434551383005186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_275
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0707d753ca946778a38bc077f9c639
+      internalID: -4202821033170014757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_276
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c743523363f024db58cbf4fefaf94c41
+      internalID: 4208078036134980066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_277
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6f200d30a2f4f51817a1b51722e0f2
+      internalID: -1982846624336594999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_278
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e16590dd1774ab8a9a0db4f20ba478
+      internalID: -5291437488043208827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_279
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd842401b3264a0ea74f1732dbf8a23
+      internalID: -1937069420325072208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_280
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01881096f6a72481bb0f325174884df7
+      internalID: 5325364759345342138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_281
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701714f6ca4d04af9883a384fe362071
+      internalID: -6085808993732496641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_282
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1bbf230fe454890a8f0739e39b64bb
+      internalID: -2252550560259652106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_283
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c820dfe5f5884e5f8f225f10d58a42c
+      internalID: 4481293133068636124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_284
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04926340a17dd49e9ab94b8dd1ef31af
+      internalID: -8641410636788723267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_285
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86d022cadee343ffb9d149f32a3bfa8
+      internalID: -8552730425576541066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_286
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393c9746577b143218aff4beada7d8c2
+      internalID: 445498251118585929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_287
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa83860b664940df8965df9763d1204
+      internalID: 7617026670750201762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_288
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95caa2378f70345f1bf7822a46a2fb1a
+      internalID: 2983303450524573549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_289
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88943dc09a6e427d85fcd384358f4b7
+      internalID: -8486264457267894375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_290
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa600a2c7b8e47989b1bf21681d1f34
+      internalID: -1137832421824715454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_291
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f97297e5c224086b9e2535415e4d07
+      internalID: 2764178712475110023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_292
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f2bdb57f05f4461901383ea26df79c
+      internalID: -7374822001577087997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_293
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3810974dd9442e6ad1265ade36cda9
+      internalID: -1024787837837583720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_294
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2823f2911a64b739409ad825e034e1
+      internalID: -5259843802869693064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_295
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c2618f6b4bd4c059a3a295275c5f2c
+      internalID: 211208306359766811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_296
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b07260f2be34426b6e6f8d4bca69e9
+      internalID: -253759887586029440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_297
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae23ac66e01c74bd2ac5f983d37a277e
+      internalID: 5054041091158507133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_298
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eabeb7cabe4441b9b579fb7d44f53b5
+      internalID: 3720541269371443299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_299
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7f0007b80bf420d98ebd24eeb18f81
+      internalID: -7278423830430573232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_300
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5210b2a22d0464747b5ed15503c06a76
+      internalID: -4387789712547966081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon-blue-spritesheet_301
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded2b29fa79024ec090ea712344958b6
+      internalID: -4559953308229062446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 56b444952457a4ce39f5406c322b519d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
