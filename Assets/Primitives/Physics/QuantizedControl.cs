@@ -1,6 +1,5 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 
 using Primitives.Core;
 
@@ -8,6 +7,8 @@ namespace Primitives
 {
     namespace Physics
     {
+        using UnityEngine;
+
         public class QuantizedControl : MonoBehaviour, ITriggerable2D
         {
             public string triggerName = "Position";

@@ -1,6 +1,5 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 
 using Primitives.Core;
 
@@ -8,7 +7,9 @@ namespace Primitives
 {
     namespace Physics
     {
-        public class PositionControl : MonoBehaviour, ITriggerable2D
+        using UnityEngine;
+
+        public class RelativePositionControl : MonoBehaviour, ITriggerable2D
         {
             public string triggerName = "Position";
             public string TriggerName { get { return triggerName; } }
